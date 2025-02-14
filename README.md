@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @andersnorlin
-- 👀 Senior System Engineer with 20+ years of experience in automotive, telecommunications, and aerospace industries. Expertise in AI-driven Advanced Driver-Assistance Systems (ADAS), IP technology, and embedded systems.
+👋 Hi, I’m @andersnorlin
+
+👀 Senior System Engineer with 20+ years of experience in automotive, telecommunications, and aerospace industries. Expertise in AI-driven Advanced Driver-Assistance Systems (ADAS), IP technology, and embedded systems.
+
 
 • Proficient in Python, C/C++, C#, and Java for Linux and Windows environments
 
